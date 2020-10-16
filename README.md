@@ -14,12 +14,15 @@ Analyze the New York City 'Citi Bike' trip data that has been released to the pu
 
 - Dashboard
   - We get a quick overview about the number of trips for the month of August in 2019, gender breakdown, top starting locations and average trip duration.
+  -- Orange = Male
+  -- Blue == Female
+  -- Red = Unknown
   
   !["Dashboard"](./Images/dashboard.png "NYC story dashboard")
   
   
 - Utilization
-  - Bike utilization shows howmuch a particular bike is utilized
+  - Bike utilization shows how much a particular bike is utilized
   
   !["Utilization"](./Images/bike_utilization.png "Bike Utilization")
   
@@ -37,7 +40,7 @@ Analyze the New York City 'Citi Bike' trip data that has been released to the pu
   
   
 - Trips by weekdays by Hour
-  - More trips were recorded during mornings before 10 am and afternoons after 4 pm. Friday shows more trips after lunch. Saturday Sunday show more trips after 10 am.
+  - More trips were recorded during mornings between 4 am and 10 am and afternoons between 4 pm and 8 pm. Friday shows more trips after lunch. Saturday and Sunday show more trips between 10 am and 8 pm.
   
   !["Trips by weekdays by Hour"](./Images/trips_by_weekdays_by_hour.png "Trips by weekdays by Hour")
   
@@ -61,7 +64,7 @@ Analyze the New York City 'Citi Bike' trip data that has been released to the pu
 
 
 ## Summary
-Based on the data collected on the New York City bike trip data we can conclude that having a bike sharing program in Des-Moines is a solid business proposal. 
+Based on the data collected on the New York City bike trip data we can conclude that having a bike sharing program in New York city is a solid business proposal. However we do not have enough information to make a decison for Des-Moines. 
 
 ### Business Recommendations 
 Based on the analysis done following additional visualizations are suggested.
