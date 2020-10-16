@@ -14,6 +14,7 @@ Analyze the New York City 'Citi Bike' trip data that has been released to the pu
 
 - Dashboard
   - We get a quick overview about the number of trips for the month of August in 2019, gender breakdown, top starting locations and average trip duration.
+  - Pie Chart colors:
     - Orange = Male
     - Blue   = Female
     - Red    = Unknown
