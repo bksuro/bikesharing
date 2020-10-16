@@ -13,43 +13,49 @@ Analyze the New York City 'Citi Bike' trip data that has been released to the pu
 ## Results
 
 - Dashboard
-  We get a quick overview about the number of trips for the month of August in 2019, gender breakdown, top starting locations and average trip duration.
+  - We get a quick overview about the number of trips for the month of August in 2019, gender breakdown, top starting locations and average trip duration.
   
   !["Dashboard"](./Images/dashboard.png "NYC story dashboard")
   
   
 - Utilization
-  Bike utilization 
+  - Bike utilization shows howmuch a particular bike is utilized
   
   !["Utilization"](./Images/bike_utilization.png "Bike Utilization")
   
   
 - Times for Users
+  - This shows us that a large number of bikes are utilized around 5 am.
   
   !["Times for Users"](./Images/checkout_times_for_users.png "Times for Users")
   
   
 - Times for Users by Gender
+  - Furthermore we see that more men use the bikes in morning than women.
   
   !["Times for Users by Gender"](./Images/checkout_times_for_users_by_gender.png "Times for Users by Gender")
   
   
 - Trips by weekdays by Hour
+  - More trips were recorded during mornings before 10 am and afternoons after 4 pm. Friday shows more trips after lunch. Saturday Sunday show more trips after 10 am.
   
   !["Trips by weekdays by Hour"](./Images/trips_by_weekdays_by_hour.png "Trips by weekdays by Hour")
   
   
 - Trips by weekdays by Hour by Gender
+  - Even with splitting the data by gender shows the same results.
   
   !["Trips by weekdays by Hour by Gender"](./Images/trips_by_weekdays_by_hour_by_gender.png "Trips by weekdays by Hour by Gender")
   
   
 - Trips by weekdays by Gender
+  - More trips were recorded by subscribers as opposed to customers.
   
   !["Trips by weekdays by Gender"](./Images/trips_by_weekdays_by_gender.png "Trips by weekdays by Gender")
   
   
 - Tablaeu
+  - A Full story of the above information is stored in the link below.
   
   ["Tablaeu story link"](https://public.tableau.com/profile/subbarao.bellamkonda#!/vizhome/Module14ChallengeSBB/NYCStory?publish=yes)
 
